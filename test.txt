@@ -1,1 +1,2 @@
 Test for deleting files in git.
+Test for recovering files from git repository.
