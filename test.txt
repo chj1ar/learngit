@@ -1,2 +1,3 @@
 Test for deleting files in git.
 Test for recovering files from git repository.
+Test for pushing to the remote repository.
